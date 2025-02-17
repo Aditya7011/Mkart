@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mkart", "Mkart.csproj", "{605BC393-F82E-4C07-96C4-80175E4B61C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mkart.Data.Access", "Mkart.Data.Access\Mkart.Data.Access.csproj", "{D4CBAF69-6284-4846-8569-9F1C8ABC9755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mkart.Model", "Mkart.Model\Mkart.Model.csproj", "{185F0105-AC2B-4AB7-BE3F-92495B348458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mkart.Utilities", "Mkart.Utilities\Mkart.Utilities.csproj", "{F31C60EA-0876-4B7B-A69C-B6D49DEDEEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605BC393-F82E-4C07-96C4-80175E4B61C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605BC393-F82E-4C07-96C4-80175E4B61C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605BC393-F82E-4C07-96C4-80175E4B61C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605BC393-F82E-4C07-96C4-80175E4B61C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CBAF69-6284-4846-8569-9F1C8ABC9755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CBAF69-6284-4846-8569-9F1C8ABC9755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CBAF69-6284-4846-8569-9F1C8ABC9755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CBAF69-6284-4846-8569-9F1C8ABC9755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185F0105-AC2B-4AB7-BE3F-92495B348458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185F0105-AC2B-4AB7-BE3F-92495B348458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185F0105-AC2B-4AB7-BE3F-92495B348458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185F0105-AC2B-4AB7-BE3F-92495B348458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31C60EA-0876-4B7B-A69C-B6D49DEDEEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31C60EA-0876-4B7B-A69C-B6D49DEDEEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31C60EA-0876-4B7B-A69C-B6D49DEDEEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31C60EA-0876-4B7B-A69C-B6D49DEDEEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
